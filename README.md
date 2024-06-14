@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Simple fun to play game.
+Simple and fun to play game.
